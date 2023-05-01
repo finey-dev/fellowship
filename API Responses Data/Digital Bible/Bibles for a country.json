@@ -1,0 +1,491 @@
+{
+    "url": "https://4.dbt.io/api/countries/KE?v=4",
+    "key": "1191728c-21b2-4636-be71-133fbb434363"
+},
+{
+    "data": {
+        "name": "Kenya",
+        "introduction": "Founding president and liberation struggle icon Jomo KENYATTA led Kenya from independence in 1963 until his death in 1978, when President Daniel MOI took power in a constitutional succession. The country was a de facto one-party state from 1969 until 1982 when the ruling Kenya African National Union (KANU) made itself the sole legal party in Kenya. MOI acceded to internal and external pressure for political liberalization in late 1991. The ethnically fractured opposition failed to dislodge KANU from power in elections in 1992 and 1997, which were marred by violence and fraud, but were viewed as having generally reflected the will of the Kenyan people. President MOI stepped down in December 2002 following fair and peaceful elections. Mwai KIBAKI, running as the candidate of the multiethnic, united opposition group, the National Rainbow Coalition (NARC), defeated KANU candidate Uhuru KENYATTA and assumed the presidency following a campaign centered on an anticorruption platform. KIBAKI's NARC coalition splintered in 2005 over a constitutional review process. Government defectors joined with KANU to form a new opposition coalition, the Orange Democratic Movement (ODM), which defeated the government's draft constitution in a popular referendum in November 2005. KIBAKI's reelection in December 2007 brought charges of vote rigging from ODM candidate Raila ODINGA and unleashed two months of violence in which as many as 1,500 people died. African Union-sponsored mediation led by former UN Secretary General Kofi ANNAN in late February 2008 resulted in a power-sharing accord bringing ODINGA into the government in the restored position of prime minister. The power sharing accord included a broad reform agenda, the centerpiece of which was constitutional reform. In August 2010, Kenyans overwhelmingly adopted a new constitution in a national referendum. The new constitution introduced additional checks and balances to executive power and significant devolution of power and resources to 47 newly created counties. It also eliminated the position of prime minister following the first presidential election under the new constitution, which occurred on 4 March 2013. Uhuru KENYATTA, the son of founding president Jomo KENYATTA, won the March elections in the first round by a close margin and was sworn into office on 9 April 2013.",
+        "continent_code": "AF",
+        "maps": {
+            "Geography": {
+                "thumbnail_url": "https://images.bible.cloud/maps/country/thumbs/KE-land.jpg",
+                "map_url": "https://bible.cloud/images/maps/country/KE-land.jpg"
+            },
+            "Location": {
+                "thumbnail_url": "https://images.bible.cloud/maps/country/thumbs/KE-location.jpg",
+                "map_url": "https://images.bible.cloud/maps/country/KE-location.png"
+            },
+            "Transportation": {
+                "thumbnail_url": "https://images.bible.cloud/maps/country/thumbs/KE-trans.jpg",
+                "map_url": "https://bible.cloud/images/maps/country/KE-trans.jpg"
+            },
+            "Profile": {
+                "thumbnail_url": "https://images.bible.cloud/maps/country/thumbs/KE-profile.jpg",
+                "map_url": "https://www.mapsland.com/maps/africa/kenya/large-scale-detailed-country-profile-map-of-kenya-1969.jpg"
+            },
+            "SIL Languages": {
+                "thumbnail_url": "https://images.bible.cloud/maps/language/thumbs/KE-SIL.jpg",
+                "map_url": "https://www.ethnologue.com/map/KE"
+            }
+        },
+        "wfb": 1,
+        "ethnologue": 1,
+        "languages": [
+            {
+                "name": "Bengali",
+                "iso": "ben",
+                "bibles": {
+                    "BENBBS": "Mussolmani",
+                    "BENBIB": "Biblica® Open Bengali Contemporary Version 2019 (2019 Biblica Audio)",
+                    "BENCLV": "Common Language Version",
+                    "BENDPI": "Indian Revised Version",
+                    "BENKMV": "Katabul Mukaddus Version",
+                    "BENLCF": "Standard Version - LUMO Christmas Film",
+                    "BENLEF": "Standard Version - LUMO Easter Film",
+                    "BENLPF": "Standard Version",
+                    "BENOSP": "Mussolmani",
+                    "BENRBV": "Re-edit Bangla Version",
+                    "BENROV": "Revised Old Version",
+                    "BENWTC": "Easy-to-Read Version",
+                    "BNGOVV": "Old Version"
+                }
+            },
+            {
+                "name": "Lubukusu",
+                "iso": "bxk",
+                "bibles": {
+                    "BXKBSK": "2007 Bible Society of Kenya",
+                    "BXKDPI": "2019, Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Daasanach",
+                "iso": "dsh",
+                "bibles": {
+                    "DSHBTL": "2014 Edition"
+                }
+            },
+            {
+                "name": "Digo",
+                "iso": "dig",
+                "bibles": {
+                    "DIGTBL": "2007 Bible League Intl."
+                }
+            },
+            {
+                "name": "Duruma",
+                "iso": "dug",
+                "bibles": {
+                    "DUGBTL": "1999 Wycliffe Bible Translators Inc."
+                }
+            },
+            {
+                "name": "Embu",
+                "iso": "ebu",
+                "bibles": {
+                    "EBUEBU": "2002 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Luganda",
+                "iso": "lug",
+                "bibles": {
+                    "LUGDPI": "The Bible Society of Uganda, 1968",
+                    "LUGLCB": "Luganda Contemporary Bible (Bayibuli Entukuvu)",
+                    "LUGLUG": "2003 Bible Society of Uganda"
+                }
+            },
+            {
+                "name": "Giryama",
+                "iso": "nyf",
+                "bibles": {
+                    "NYFBTL": "2004 Bible Translation and Literacy",
+                    "NYFBTR": "Bible Translation and Literacy(E.A.), 2018"
+                }
+            },
+            {
+                "name": "Gujarati",
+                "iso": "guj",
+                "bibles": {
+                    "GUJDPI": "Indian Revised Version",
+                    "GUJGOV": "Old Version",
+                    "GUJLPF": "Gujarati New India Bible",
+                    "GUJWTC": "1997 Bible League International"
+                }
+            },
+            {
+                "name": "Gusii",
+                "iso": "guz",
+                "bibles": {
+                    "GUZGUZ": "1990 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Hindi",
+                "iso": "hin",
+                "bibles": {
+                    "HINBIB": "Biblica® Open Hindi Contemporary Version 2019 (2019 Biblica Audio)",
+                    "HINDPI": "Indian Revised Version",
+                    "HINHNV": "New Hindi Version",
+                    "HINLCF": "New Hindi Version - LUMO Christmas Film",
+                    "HINLEF": "New Hindi Version - LUMO Easter Film",
+                    "HINOHC": "Biblica® Open Hindi Contemporary Version 2019 (2022 Biblica)",
+                    "HINWTC": "Easy-to-Read Version",
+                    "HNDOVV": "Old Version",
+                    "HNDSKV": "Sab Ki Version"
+                }
+            },
+            {
+                "name": "Luidakho-Luisukha-Lutirichi",
+                "iso": "ida",
+                "bibles": {
+                    "IDANEW": "2002 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Ilwana",
+                "iso": "mlk",
+                "bibles": {
+                    "MLKBTL": "Bible Translation and Literacy (E.A),2018"
+                }
+            },
+            {
+                "name": "Kikamba",
+                "iso": "kam",
+                "bibles": {
+                    "KAMDPI": "2011 Bible Society of Kenya",
+                    "KIKBSK": "1998 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Kikuyu",
+                "iso": "kik",
+                "bibles": {
+                    "KIKKGV": "Kiugo Githeru (Kikuyu Bible)",
+                    "KIUBSK": "1965 Bible Society of Kenya",
+                    "KIUDPI": "Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Kalenjin",
+                "iso": "kln",
+                "bibles": {
+                    "KLNDPI": "Revised Bible Protestant Edition",
+                    "KLNRKV": "Arorutyet Ne Leel",
+                    "KLNUBS": "1968 United Bible Societies"
+                }
+            },
+            {
+                "name": "Konso",
+                "iso": "kxc",
+                "bibles": {
+                    "KXCBSE": "2001 Bible Society of Ethiopia"
+                }
+            },
+            {
+                "name": "Logooli",
+                "iso": "rag",
+                "bibles": {
+                    "RAGBSK": "2008 The Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Luo (Kenya and Tanzania)",
+                "iso": "luo",
+                "bibles": {
+                    "LUODPI": "1976 Bible Society of Kenya and Bible Society of Tanzania",
+                    "LUOLUO": "1978 Bible Society of Kenya",
+                    "LUOPRM": "1978 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Luyia",
+                "iso": "luy",
+                "bibles": {
+                    "LUYBSK": "2002 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Makonde",
+                "iso": "kde",
+                "bibles": {
+                    "KDEDVRNT": "2013, Wycliffe Bible Translators, Inc",
+                    "KDEPBT": "Pioneer Bible Translators"
+                }
+            },
+            {
+                "name": "Chinese, Mandarin",
+                "iso": "cmn",
+                "bibles": {
+                    "CMNNVC": "Chinese New Version",
+                    "CMNRCUV": "Revised Chinese Union Bible Shen Edition",
+                    "CMNSBV": "Studium Biblicum Version (Catholic)",
+                    "CMNSPW": "Plain Wenli (1898) - Shueisha",
+                    "CMNTCV": "Today’s Chinese Version",
+                    "CMNTEM": "Chinese Contemporary Bible (圣经当代译本修订版)",
+                    "CMNUN1": "Union Version",
+                    "CMNUNV": "Union Version",
+                    "CMNWTC": "2015 Bible League International",
+                    "CMNWWB": "Worldwide Chinese New Version"
+                }
+            },
+            {
+                "name": "Marathi",
+                "iso": "mar",
+                "bibles": {
+                    "MARDPI": "Indian Revised Version",
+                    "MARLPF": "Marathi New India Bible Version",
+                    "MARRVV": "Old Version",
+                    "MARSKV": "Sab Ki",
+                    "MARWTC": "1993 Bible League International"
+                }
+            },
+            {
+                "name": "Marakwet",
+                "iso": "enb",
+                "bibles": {
+                    "ENBBTL": "2008 Bible Translation and Literacy"
+                }
+            },
+            {
+                "name": "Lumasaaba",
+                "iso": "myx",
+                "bibles": {
+                    "MYXBSU": "2008 Bible Society of Uganda",
+                    "MYXDPI": "2016 Bible Society Of Uganda (DAVAR Audio)"
+                }
+            },
+            {
+                "name": "Masai",
+                "iso": "mas",
+                "bibles": {
+                    "MASDPI": "The Revised Maasai Bible",
+                    "MASMAS": "Biblia Sinyati Version"
+                }
+            },
+            {
+                "name": "Meru",
+                "iso": "mer",
+                "bibles": {
+                    "MERUBS": "2010 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Nyore",
+                "iso": "nyd",
+                "bibles": {
+                    "NYDBSK": "Bible Society of Kenya, 2000"
+                }
+            },
+            {
+                "name": "Orma",
+                "iso": "orc",
+                "bibles": {
+                    "ORCBTL": "2016 First Edition Bible Translation & Literacy"
+                }
+            },
+            {
+                "name": "Punjabi",
+                "iso": "pan",
+                "bibles": {
+                    "PANOVV": "Old Version",
+                    "PANWTC": "2000 Bible League International"
+                }
+            },
+            {
+                "name": "Pokomo",
+                "iso": "pkb",
+                "bibles": {
+                    "PKBBTL": "2004 Bible Translation and Literacy"
+                }
+            },
+            {
+                "name": "Pökoot",
+                "iso": "pko",
+                "bibles": {
+                    "PKOPKO": "2008 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Rendille",
+                "iso": "rel",
+                "bibles": {
+                    "RELBTL": "Bible Translation & Literacy (EA), 2018"
+                }
+            },
+            {
+                "name": "Kirundi",
+                "iso": "run",
+                "bibles": {
+                    "RUNBSB": "2007 Bible Society of Burundi",
+                    "RUNRCV": "Roman Catholic Version"
+                }
+            },
+            {
+                "name": "Saamia",
+                "iso": "lsm",
+                "bibles": {
+                    "LSMBSU": "2010 Bible Society of Uganda"
+                }
+            },
+            {
+                "name": "Sabaot",
+                "iso": "spy",
+                "bibles": {
+                    "SPYWBT": "1997 Wycliffe Bible Translators Inc."
+                }
+            },
+            {
+                "name": "Samburu",
+                "iso": "saq",
+                "bibles": {
+                    "SAQBTL": "2018 Bible Translation & Literacy"
+                }
+            },
+            {
+                "name": "Kreol Seselwa",
+                "iso": "crs",
+                "bibles": {
+                    "CRSSBS": "2013 Bible Society in the Seychelles"
+                }
+            },
+            {
+                "name": "Sindhi, India",
+                "iso": "snd",
+                "bibles": {
+                    "SNDNCL": "India Sindhi Translation"
+                }
+            },
+            {
+                "name": "Somali",
+                "iso": "som",
+                "bibles": {
+                    "SOMB13": "Society for International Ministries, 2008 (Theovision Audio)",
+                    "SOMM20": "1920 Somali Bible",
+                    "SOMSIM": "Society for International Ministries, 2008 (OT - non drama Theovision, NT - Drama FCBH)"
+                }
+            },
+            {
+                "name": "French",
+                "iso": "fra",
+                "bibles": {
+                    "FRABIB": "La Bible Du Semeur",
+                    "FRABLI": "Bible League International",
+                    "FRADBY": "1885 Darby",
+                    "FRADPI": "Parole de Vie - African (Davar Audio)",
+                    "FRALSG": "1910 version Louis Segond",
+                    "FRALSN": "La Nouvelle Bible Louis Segond 1978",
+                    "FRAPDF": "Parole de Vie - French",
+                    "FRAPDVA": "Parole de Vie - African",
+                    "FRAPDVC": "Parole de Vie - Canadian",
+                    "FRNO96": "Ostervald Version",
+                    "FRNTLS": "1910 Louis Segond (Tresorsonore recording)"
+                }
+            },
+            {
+                "name": "English",
+                "iso": "eng",
+                "bibles": {
+                    "AUSWBT": "Aboriginal Translators Version",
+                    "EN1ESV": "English Standard Version® - Hear the Word Audio Bible",
+                    "ENGASV": "American Standard Bible",
+                    "ENGBRG": "King James Version, 1769 - color text",
+                    "ENGCAV": "Contemporary English Version - African American",
+                    "ENGCEV": "Contemporary English Version®",
+                    "ENGCFL": "New Living Translation® - Courage for Life",
+                    "ENGCNV": "Contemporary English Version - Native American",
+                    "ENGESV": "English Standard Version®",
+                    "ENGEVD": "English Version for the Deaf",
+                    "ENGGID": "English Standard Version (Gideons)",
+                    "ENGGNB": "Good News Translation Anglicised",
+                    "ENGGVA": "English Standard Version - Gideon’s",
+                    "ENGHSV": "New Living Translation®, Holy Sanctuary version, Oasis Audio Family Media",
+                    "ENGIME": "The Holy Injil in Modern English",
+                    "ENGKJV": "King James Version",
+                    "ENGLCF": "Holy Bible, New International Version ® - LUMO Christmas Film",
+                    "ENGLEF": "Holy Bible, New International Version ® - LUMO Easter Film",
+                    "ENGNAB": "New American Bible, revised edition (NABRE)",
+                    "ENGNAS": "New American Standard Bible (NASB)",
+                    "ENGNII": "Holy Bible, New International Version® (South Asian Audio Edition)",
+                    "ENGNIR": "Holy Bible, New International Reader’s Version®, NIrV®",
+                    "ENGNIRV": "KIDS - Holy Bible, New International Reader’s Version®",
+                    "ENGNIV": "Holy Bible, New International Version®",
+                    "ENGNIVA": "Holy Bible, New International Version® (Anglicised)",
+                    "ENGNKJV": "New King James Version",
+                    "ENGNLH": "New Living Translation® - her.BIBLE (women’s voices)",
+                    "ENGNLT": "New Living Translation®, Holy Sanctuary version",
+                    "ENGNLV": "New Life Version (Easy to Read)",
+                    "ENGNRSV": "New Revised Standard Version",
+                    "ENGOEV": "Oral English",
+                    "ENGREV": "Revised Version 1885",
+                    "ENGTLV": "Tree of Life Version",
+                    "ENGWEB": "World English Bible",
+                    "ENGWM1": "World Messianic Version",
+                    "ENGWMV": "Wycliffe Modern",
+                    "ENGWWH": "World English Bible - Winfred Henson"
+                }
+            },
+            {
+                "name": "Suba",
+                "iso": "sxb",
+                "bibles": {
+                    "SXBWBT": "Bible Translation & Literacy (EA), 2010"
+                }
+            },
+            {
+                "name": "Kiswahili",
+                "iso": "swh",
+                "bibles": {
+                    "SWABIB": "Kiswahili Contemporary Version (Neno: Bibilia Takatifu)",
+                    "SWHBLI": "Bible League International",
+                    "SWHKSB": "Habari Njema",
+                    "SWHSUV": "Biblia Habari Njema (Interconfessional)"
+                }
+            },
+            {
+                "name": "Taita",
+                "iso": "dav",
+                "bibles": {
+                    "DAVBSK": "Bible Society of Kenya, 1997"
+                }
+            },
+            {
+                "name": "Teso",
+                "iso": "teo",
+                "bibles": {
+                    "TEOBSK": "Bible Society of Kenya",
+                    "TEOBSU": "Ateso Old Version Bible 1961",
+                    "TEODPI": "1961 Bible Society of Uganda (Davar Audio)"
+                }
+            },
+            {
+                "name": "Tharaka",
+                "iso": "thk",
+                "bibles": {
+                    "THKBTL": "2002 Bible Translation and Literacy"
+                }
+            },
+            {
+                "name": "Turkana",
+                "iso": "tuv",
+                "bibles": {
+                    "TUVDPI": "2002 Bible Society of Kenya (DPI Audio)",
+                    "TUVTUV": "2001 Bible Society of Kenya"
+                }
+            },
+            {
+                "name": "Guji",
+                "iso": "gax",
+                "bibles": {
+                    "GAXTBN": "2007 Bible Society of Ethiopia"
+                }
+            }
+        ],
+        "codes": {
+            "fips": "KE",
+            "iso_a3": "KEN",
+            "iso_a2": "KE"
+        }
+    }
+}

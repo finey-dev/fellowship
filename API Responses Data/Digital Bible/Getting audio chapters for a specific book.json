@@ -1,0 +1,24 @@
+{
+    "url": "https://4.dbt.io/api/bibles/filesets/LUOBSKN2DA/MAT/2?v=4",
+    "key": "1191728c-21b2-4636-be71-133fbb434363"
+},
+{
+    "data": [
+        {
+            "book_id": "MAT",
+            "book_name": "[Matthew]",
+            "chapter_start": 2,
+            "chapter_end": null,
+            "verse_start": 1,
+            "verse_start_alt": "1",
+            "verse_end": null,
+            "verse_end_alt": null,
+            "timestamp": null,
+            "path": "https://content.cdn.dbp-prod.dbp4.org/audio/LUOLUO/LUOBSKN2DA/B01___02_Matthew_____LUOBSKN2DA.mp3?x-amz-transaction=8735932&Expires=1682687113&Signature=JLpSgsunfcUT8AeG~pODXTOdr~prcttINKOFdrxVb4B-JFNErTlKZS8v2ZXOX1seG5i0srthMogsQvRbeJNkYMgJZQpBLanKcWhNV01Exoe4RcnZtmpEw9TsVd5Kp8xV5ET4CYy3ofB1a13IF9OkEgL02aN~3zBSaZHnv56lyrtQ7EF-1oIVcHpW269xZACYzVHV8kIGgVC7gK86FGf9yXRVmwwWiFZ5JcBKUOs7HEqMoDIE8NHREgHh0FZC0dDUQMzCvesfR0VH-dG0rIQdT86uKduOzlaoQz9YhTw-M2lVzkSTBq0qdUg4cGgolwcEIVJapSu49ledFejAz-MGoA__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+            "duration": 266,
+            "thumbnail": "https://content.cdn.dbp-prod.dbp4.org/audio/LUOLUO/LUOBSKN2DA/Art/125x125/LUOBSKN2DA.jpg?x-amz-transaction=1108730&Expires=1682687113&Signature=VTwgLpeRm2Dn-cfr1DJqkhcmSweyrOJdq~LZA7k4CcVcwQ5yOQtkQBvLn1hV-KlZTo3xKzltf5DBCwoU5tc8-IM6k8VKxNc-CjivpgjaThoHK5iJz6OBOOplSqnCuiCLbkF2DDHAS-3apEcJ9-Qf5HFb21e8x-lottvpJiI-whShOaTifYzrSZRIMtf7VckEiY4SVW~YgAfbwmw2zI4oYQrilXZYQzObV5eJzRWOVVpUmpjTx8AKemaL3XpJqsc47udFMv9e8sZX4v-o-7DP6SQ6OOMW2SpDaF4UmAUho3L--S4W9yTN06MmtxSb81B8vbp9gB7YWZehbuaxG457FA__&Key-Pair-Id=APKAI4ULLVMANLYYPTLQ",
+            "filesize_in_bytes": 2213608,
+            "youtube_url": null
+        }
+    ]
+}
